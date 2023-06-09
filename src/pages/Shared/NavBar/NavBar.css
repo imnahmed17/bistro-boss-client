@@ -1,0 +1,9 @@
+.navbar-end a.active,
+.navbar-center a.active {
+    color: #EEFF25;
+    background-color: transparent;
+}
+.navbar-end a:focus,
+.navbar-center a:focus {
+    background-color: transparent;
+}

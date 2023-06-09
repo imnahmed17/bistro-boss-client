@@ -1,0 +1,9 @@
+.swiper-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal {
+    bottom: var(--swiper-pagination-bottom) !important;
+    /* background-color: aqua; */
+    top: var(--swiper-pagination-top, auto);
+    left: 0px;
+    width: 100%;
+    position: inherit;
+}
